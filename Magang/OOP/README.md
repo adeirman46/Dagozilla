@@ -23,4 +23,13 @@ This repository consists 2 files CPP format and 4 files hpp format
 
 ## CPP Format Files
 
-1. **Robot.cpp**
+1. **Robot.cpp** <br>
+   This file used for implementing algorithms for all hpp files. <br>
+
+2. **Main.cpp** <br>
+   This file is main program. This file consists practical aspects, such as what is the output when robot move(), celebrate(), recharge(), expanding_status(), etc. <br>
+
+## How to Run <br>
+
+You can run and compile all of this programs by specifying this command in your terminal. <br>
+`g++ -o output_file main.cpp Robot.cpp`.
