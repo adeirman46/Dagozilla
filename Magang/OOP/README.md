@@ -32,4 +32,5 @@ This repository consists 2 files CPP format and 4 files hpp format
 ## How to Run <br>
 
 You can run and compile all of this programs by specifying this command in your terminal. <br>
-`g++ -o output_file main.cpp Robot.cpp`
+`g++ -o output_file main.cpp Robot.cpp` <br>
+then `./output_file`
