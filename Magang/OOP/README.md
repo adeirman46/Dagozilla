@@ -14,4 +14,13 @@ This repository consists 2 files CPP format and 4 files hpp format
    This class also consists move() and recharge()method, we also make pure virtual function celebrate() which makes this class cannot be instantiated and inherited class must implement this function. <br>
 
 3. **Player** <br>
-   This file used for creating class Player. This class in inherited from parent class _SoccerRobot_.
+   This file used for creating class Player. This class in inherited from parent class _SoccerRobot_. This class has additional attributes such as dribble_status, kicker_status, is_ball_on_possession, and capacitor_charge_percentage. <br>
+   This file also contains method kick(), get_ball(), celebrate(), and charge_capacitor(). <br>
+
+4. **Keeper** <br>
+   This file used for creating class Keeper. This class also child class from _SoccerRobot_ but only has additional attributes expander_status.
+   This class has method save_ball() and celebrate() <br>
+
+## CPP Format Files
+
+1. **Robot.cpp**
