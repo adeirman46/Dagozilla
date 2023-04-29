@@ -1,2 +1,2 @@
 # Dagozilla
-This repository used for implementing algorithm for Autonomous Soccer Robot
+This repository used for implementing algorithms for Autonomous Soccer Robot
