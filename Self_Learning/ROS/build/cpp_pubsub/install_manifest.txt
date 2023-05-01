@@ -1,0 +1,17 @@
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/talker
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/listener
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.xml

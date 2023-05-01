@@ -1,0 +1,32 @@
+[0.020s] Invoking command in '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub -- -j12 -l12
+[0.082s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.083s] [35m[1mConsolidate compiler generated dependencies of target listener[0m
+[0.115s] [ 25%] [32mBuilding CXX object CMakeFiles/talker.dir/src/pub_function.cpp.o[0m
+[0.120s] [ 50%] [32mBuilding CXX object CMakeFiles/listener.dir/src/sub_function.cpp.o[0m
+[5.295s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[5.531s] [ 75%] Built target talker
+[9.607s] [100%] [32m[1mLinking CXX executable listener[0m
+[10.011s] [100%] Built target listener
+[10.028s] Invoked command in '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub -- -j12 -l12
+[10.066s] Invoking command in '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub
+[10.071s] -- Install configuration: ""
+[10.071s] -- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/talker
+[10.072s] -- Set runtime path of "/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[10.072s] -- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/listener
+[10.076s] -- Set runtime path of "/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[10.076s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[10.076s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[10.077s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[10.078s] -- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[10.079s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[10.080s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[10.080s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[10.080s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[10.081s] Invoked command in '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub

@@ -1,0 +1,6 @@
+[01m[K/home/irman/Documents/Programming/CPP/Dagozilla/ROS/src/cpp_pubsub/src/pub_function.cpp:34:5:[m[K [01;35m[Kwarning: [m[Kfirst argument of ‘[01m[Kint main(char, char**)[m[K’ should be ‘[01m[Kint[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+   34 | int [01;35m[Kmain[m[K(char argc, char* argv[]){
+      |     [01;35m[K^~~~[m[K
+[01m[K/home/irman/Documents/Programming/CPP/Dagozilla/ROS/src/cpp_pubsub/src/sub_function.cpp:23:5:[m[K [01;35m[Kwarning: [m[Kfirst argument of ‘[01m[Kint main(char, char**)[m[K’ should be ‘[01m[Kint[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wmain-Wmain]8;;[m[K]
+   23 | int [01;35m[Kmain[m[K(char argc, char* argv[]){
+      |     [01;35m[K^~~~[m[K

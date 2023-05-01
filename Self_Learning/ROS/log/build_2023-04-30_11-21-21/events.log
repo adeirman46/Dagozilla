@@ -1,0 +1,140 @@
+[0.000000] (-) TimerEvent: {}
+[0.000905] (cpp_pubsub) JobQueued: {'identifier': 'cpp_pubsub', 'dependencies': OrderedDict()}
+[0.001087] (cpp_pubsub) JobStarted: {'identifier': 'cpp_pubsub'}
+[0.014445] (cpp_pubsub) JobProgress: {'identifier': 'cpp_pubsub', 'progress': 'cmake'}
+[0.015383] (cpp_pubsub) JobProgress: {'identifier': 'cpp_pubsub', 'progress': 'build'}
+[0.016815] (cpp_pubsub) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub', '--', '-j12', '-l12'], 'cwd': '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('USER', 'irman'), ('LC_TIME', 'id_ID.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/irman'), ('OLDPWD', '/home/irman/Documents/Programming/CPP/Dagozilla'), ('LESS', '-R'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('ZSH', '/home/irman/.oh-my-zsh'), ('LSCOLORS', 'Gxfxcxdxbxegedabagacad'), ('GTK_MODULES', 'gail:atk-bridge'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('PAGER', 'less'), ('ROS_PYTHON_VERSION', '3'), ('MANAGERPID', '1668'), ('LC_MONETARY', 'id_ID.UTF-8'), ('SYSTEMD_EXEC_PID', '2036'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('P9K_TTY', 'old'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '5923'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f'), ('_CE_M', ''), ('_colcon_cd_root', '/opt/ros/humble/'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'irman'), ('JOURNAL_STREAM', '8:33391'), ('_P9K_SSH_TTY', '/dev/pts/0'), ('_', '/usr/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('USERNAME', 'irman'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/irman/miniconda3/bin:/home/irman/miniconda3/condabin:/home/irman/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/irman:@/tmp/.ICE-unix/2017,unix/irman:/tmp/.ICE-unix/2017'), ('INVOCATION_ID', '3158c58a58cc46bda74fd68cf416bea0'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('IBUS_DISABLE_SNOOPER', '1'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XMODIFIERS', '@im=ibus'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('CONDA_PYTHON_EXE', '/home/irman/miniconda3/bin/python'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('TERMINATOR_UUID', 'urn:uuid:f486e827-4fb0-4087-ad92-6da6c6fb6610'), ('SHELL', '/bin/zsh'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('CONDA_DEFAULT_ENV', 'base'), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('P9K_SSH', '0'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('_P9K_TTY', '/dev/pts/0'), ('CONDA_EXE', '/home/irman/miniconda3/bin/conda'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_PAPER', 'id_ID.UTF-8'), ('CONDA_PREFIX', '/home/irman/miniconda3'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.083287] (cpp_pubsub) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target talker\x1b[0m\n'}
+[0.084145] (cpp_pubsub) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target listener\x1b[0m\n'}
+[0.098020] (-) TimerEvent: {}
+[0.116179] (cpp_pubsub) StdoutLine: {'line': b'[ 25%] \x1b[32mBuilding CXX object CMakeFiles/talker.dir/src/pub_function.cpp.o\x1b[0m\n'}
+[0.120860] (cpp_pubsub) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/listener.dir/src/sub_function.cpp.o\x1b[0m\n'}
+[0.198210] (-) TimerEvent: {}
+[0.298758] (-) TimerEvent: {}
+[0.399299] (-) TimerEvent: {}
+[0.499879] (-) TimerEvent: {}
+[0.600492] (-) TimerEvent: {}
+[0.701179] (-) TimerEvent: {}
+[0.801782] (-) TimerEvent: {}
+[0.902424] (-) TimerEvent: {}
+[1.002945] (-) TimerEvent: {}
+[1.103479] (-) TimerEvent: {}
+[1.204048] (-) TimerEvent: {}
+[1.304642] (-) TimerEvent: {}
+[1.405244] (-) TimerEvent: {}
+[1.505850] (-) TimerEvent: {}
+[1.606337] (-) TimerEvent: {}
+[1.706773] (-) TimerEvent: {}
+[1.807142] (-) TimerEvent: {}
+[1.907523] (-) TimerEvent: {}
+[2.007932] (-) TimerEvent: {}
+[2.108401] (-) TimerEvent: {}
+[2.208901] (-) TimerEvent: {}
+[2.309354] (-) TimerEvent: {}
+[2.409881] (-) TimerEvent: {}
+[2.510362] (-) TimerEvent: {}
+[2.610814] (-) TimerEvent: {}
+[2.711280] (-) TimerEvent: {}
+[2.811743] (-) TimerEvent: {}
+[2.912214] (-) TimerEvent: {}
+[3.012670] (-) TimerEvent: {}
+[3.113146] (-) TimerEvent: {}
+[3.213602] (-) TimerEvent: {}
+[3.314117] (-) TimerEvent: {}
+[3.414506] (-) TimerEvent: {}
+[3.515026] (-) TimerEvent: {}
+[3.615427] (-) TimerEvent: {}
+[3.715884] (-) TimerEvent: {}
+[3.816281] (-) TimerEvent: {}
+[3.916736] (-) TimerEvent: {}
+[4.017222] (-) TimerEvent: {}
+[4.117666] (-) TimerEvent: {}
+[4.218150] (-) TimerEvent: {}
+[4.318597] (-) TimerEvent: {}
+[4.419068] (-) TimerEvent: {}
+[4.519539] (-) TimerEvent: {}
+[4.620185] (-) TimerEvent: {}
+[4.720653] (-) TimerEvent: {}
+[4.821127] (-) TimerEvent: {}
+[4.921575] (-) TimerEvent: {}
+[5.022043] (-) TimerEvent: {}
+[5.122502] (-) TimerEvent: {}
+[5.222949] (-) TimerEvent: {}
+[5.295667] (cpp_pubsub) StdoutLine: {'line': b'[ 75%] \x1b[32m\x1b[1mLinking CXX executable talker\x1b[0m\n'}
+[5.323109] (-) TimerEvent: {}
+[5.423583] (-) TimerEvent: {}
+[5.524069] (-) TimerEvent: {}
+[5.532226] (cpp_pubsub) StdoutLine: {'line': b'[ 75%] Built target talker\n'}
+[5.624400] (-) TimerEvent: {}
+[5.725062] (-) TimerEvent: {}
+[5.825533] (-) TimerEvent: {}
+[5.925996] (-) TimerEvent: {}
+[6.026441] (-) TimerEvent: {}
+[6.126811] (-) TimerEvent: {}
+[6.227443] (-) TimerEvent: {}
+[6.327881] (-) TimerEvent: {}
+[6.428571] (-) TimerEvent: {}
+[6.528983] (-) TimerEvent: {}
+[6.629490] (-) TimerEvent: {}
+[6.729921] (-) TimerEvent: {}
+[6.830354] (-) TimerEvent: {}
+[6.930735] (-) TimerEvent: {}
+[7.031166] (-) TimerEvent: {}
+[7.131721] (-) TimerEvent: {}
+[7.232148] (-) TimerEvent: {}
+[7.332529] (-) TimerEvent: {}
+[7.432955] (-) TimerEvent: {}
+[7.533315] (-) TimerEvent: {}
+[7.633785] (-) TimerEvent: {}
+[7.734627] (-) TimerEvent: {}
+[7.835103] (-) TimerEvent: {}
+[7.935552] (-) TimerEvent: {}
+[8.035960] (-) TimerEvent: {}
+[8.136404] (-) TimerEvent: {}
+[8.237053] (-) TimerEvent: {}
+[8.337495] (-) TimerEvent: {}
+[8.437933] (-) TimerEvent: {}
+[8.538292] (-) TimerEvent: {}
+[8.638721] (-) TimerEvent: {}
+[8.739156] (-) TimerEvent: {}
+[8.839631] (-) TimerEvent: {}
+[8.940289] (-) TimerEvent: {}
+[9.040996] (-) TimerEvent: {}
+[9.141420] (-) TimerEvent: {}
+[9.241893] (-) TimerEvent: {}
+[9.342380] (-) TimerEvent: {}
+[9.442848] (-) TimerEvent: {}
+[9.543329] (-) TimerEvent: {}
+[9.608156] (cpp_pubsub) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable listener\x1b[0m\n'}
+[9.643523] (-) TimerEvent: {}
+[9.744041] (-) TimerEvent: {}
+[9.844509] (-) TimerEvent: {}
+[9.945171] (-) TimerEvent: {}
+[10.011524] (cpp_pubsub) StdoutLine: {'line': b'[100%] Built target listener\n'}
+[10.028451] (cpp_pubsub) CommandEnded: {'returncode': 0}
+[10.045411] (-) TimerEvent: {}
+[10.059019] (cpp_pubsub) JobProgress: {'identifier': 'cpp_pubsub', 'progress': 'install'}
+[10.066555] (cpp_pubsub) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub'], 'cwd': '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('CONDA_PROMPT_MODIFIER', '(base)'), ('USER', 'irman'), ('LC_TIME', 'id_ID.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/irman'), ('OLDPWD', '/home/irman/Documents/Programming/CPP/Dagozilla'), ('LESS', '-R'), ('CONDA_SHLVL', '1'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/terminator.desktop'), ('ZSH', '/home/irman/.oh-my-zsh'), ('LSCOLORS', 'Gxfxcxdxbxegedabagacad'), ('GTK_MODULES', 'gail:atk-bridge'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('PAGER', 'less'), ('ROS_PYTHON_VERSION', '3'), ('MANAGERPID', '1668'), ('LC_MONETARY', 'id_ID.UTF-8'), ('SYSTEMD_EXEC_PID', '2036'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('P9K_TTY', 'old'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '5923'), ('COLORTERM', 'truecolor'), ('TERMINATOR_DBUS_NAME', 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f'), ('_CE_M', ''), ('_colcon_cd_root', '/opt/ros/humble/'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'irman'), ('JOURNAL_STREAM', '8:33391'), ('_P9K_SSH_TTY', '/dev/pts/0'), ('_', '/usr/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('ROS_VERSION', '2'), ('TERM', 'xterm-256color'), ('USERNAME', 'irman'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/irman/miniconda3/bin:/home/irman/miniconda3/condabin:/home/irman/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/irman:@/tmp/.ICE-unix/2017,unix/irman:/tmp/.ICE-unix/2017'), ('INVOCATION_ID', '3158c58a58cc46bda74fd68cf416bea0'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('IBUS_DISABLE_SNOOPER', '1'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('TERMINATOR_DBUS_PATH', '/net/tenshu/Terminator2'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XMODIFIERS', '@im=ibus'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('CONDA_PYTHON_EXE', '/home/irman/miniconda3/bin/python'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('TERMINATOR_UUID', 'urn:uuid:f486e827-4fb0-4087-ad92-6da6c6fb6610'), ('SHELL', '/bin/zsh'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('CONDA_DEFAULT_ENV', 'base'), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('P9K_SSH', '0'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/irman/Documents/Programming/CPP/Dagozilla/ROS/build/cpp_pubsub'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('_P9K_TTY', '/dev/pts/0'), ('CONDA_EXE', '/home/irman/miniconda3/bin/conda'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_PAPER', 'id_ID.UTF-8'), ('CONDA_PREFIX', '/home/irman/miniconda3'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[10.071595] (cpp_pubsub) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[10.071841] (cpp_pubsub) StdoutLine: {'line': b'-- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/talker\n'}
+[10.073183] (cpp_pubsub) StdoutLine: {'line': b'-- Set runtime path of "/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""\n'}
+[10.073400] (cpp_pubsub) StdoutLine: {'line': b'-- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/listener\n'}
+[10.076950] (cpp_pubsub) StdoutLine: {'line': b'-- Set runtime path of "/home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""\n'}
+[10.077243] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub\n'}
+[10.077401] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub\n'}
+[10.077591] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh\n'}
+[10.077734] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv\n'}
+[10.077861] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh\n'}
+[10.077985] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv\n'}
+[10.078111] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash\n'}
+[10.078240] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh\n'}
+[10.078365] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh\n'}
+[10.078491] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv\n'}
+[10.078676] (cpp_pubsub) StdoutLine: {'line': b'-- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.dsv\n'}
+[10.079403] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub\n'}
+[10.080204] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake\n'}
+[10.081207] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake\n'}
+[10.081469] (cpp_pubsub) StdoutLine: {'line': b'-- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/ROS/install/cpp_pubsub/share/cpp_pubsub/package.xml\n'}
+[10.081666] (cpp_pubsub) CommandEnded: {'returncode': 0}
+[10.132967] (cpp_pubsub) JobEnded: {'identifier': 'cpp_pubsub', 'rc': 0}
+[10.133590] (-) EventReactorShutdown: {}
