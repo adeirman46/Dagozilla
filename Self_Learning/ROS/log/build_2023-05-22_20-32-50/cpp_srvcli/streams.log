@@ -1,0 +1,29 @@
+[0.013s] Invoking command in '/home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli -- -j12 -l12
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target client[0m
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target server[0m
+[0.071s] [ 50%] Built target server
+[0.073s] [ 75%] [32mBuilding CXX object CMakeFiles/client.dir/src/my_client.cpp.o[0m
+[2.920s] [100%] [32m[1mLinking CXX executable client[0m
+[3.066s] [100%] Built target client
+[3.081s] Invoked command in '/home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli -- -j12 -l12
+[3.120s] Invoking command in '/home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli
+[3.125s] -- Install configuration: ""
+[3.125s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/lib/cpp_srvcli/server
+[3.125s] -- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/lib/cpp_srvcli/client
+[3.126s] -- Set runtime path of "/home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/lib/cpp_srvcli/client" to ""
+[3.126s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/ament_index/resource_index/package_run_dependencies/cpp_srvcli
+[3.126s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/ament_index/resource_index/parent_prefix_path/cpp_srvcli
+[3.126s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.sh
+[3.126s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.dsv
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/environment/path.sh
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/environment/path.dsv
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/local_setup.bash
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/local_setup.sh
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/local_setup.zsh
+[3.127s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/local_setup.dsv
+[3.127s] -- Installing: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/package.dsv
+[3.128s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/ament_index/resource_index/packages/cpp_srvcli
+[3.128s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig.cmake
+[3.128s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig-version.cmake
+[3.129s] -- Up-to-date: /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/install/cpp_srvcli/share/cpp_srvcli/package.xml
+[3.130s] Invoked command in '/home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/irman/Documents/Programming/CPP/Dagozilla/Dagozilla/Self_Learning/ROS/build/cpp_srvcli
